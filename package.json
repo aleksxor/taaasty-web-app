@@ -1,0 +1,23 @@
+{
+  "name": "taaasty-web-app",
+  "version": "0.0.1",
+  "description": "Taaasty progressive web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksxor/taaasty-web-app.git"
+  },
+  "keywords": [
+    "taaasty",
+    "tasty"
+  ],
+  "author": "Aleksey Khoroshev <aleksxor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleksxor/taaasty-web-app/issues"
+  },
+  "homepage": "https://github.com/aleksxor/taaasty-web-app#readme"
+}
