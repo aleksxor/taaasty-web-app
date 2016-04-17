@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/aleksxor/taaasty-web-app/issues"
   },
-  "homepage": "https://github.com/aleksxor/taaasty-web-app#readme"
+  "homepage": "https://github.com/aleksxor/taaasty-web-app#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "clean-css": "^3.4.12",
+    "uglifyjs2": "0.0.1",
+    "webpack": "^1.13.0"
+  }
 }
